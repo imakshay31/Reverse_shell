@@ -1,2 +1,2 @@
 # Reverse_shell
-Project to control command prompt of other's(client) pc. 
+To run a reverse shell (command prompt) of any client on our pc (server) 
