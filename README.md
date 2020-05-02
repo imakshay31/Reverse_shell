@@ -24,7 +24,7 @@ Essential information--
   
 There are two folder 
 One for connecting only one client.
-Other for connecting multiply client.
+Other for connecting multiple client.
 
 
 Note--
