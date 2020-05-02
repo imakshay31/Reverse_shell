@@ -16,7 +16,7 @@ def create_socket():
 		global host
 		global port
 		global s
-		host='192.168.43.230'
+		host='###.###.##.###'
 		port=9999
 		s=socket.socket()
 		print("Socket created")
